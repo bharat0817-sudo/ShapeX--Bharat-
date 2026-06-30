@@ -1,0 +1,221 @@
+respondent_id,background,prior_franchise_experience,proposed_city,proposed_area_type,capital_lakh_inr,space_availability,space_sqft,royalty_structure_pref,launch_timeline,attitude_brand_reduces_risk,attitude_breakeven_confidence,attitude_low_staffing_appeal,attitude_support_importance,attitude_commit_5yr,will_invest_in_franchise
+F2000,Existing business owner,Yes-other sector,Pune,Student/PG-dense,27,Need help,650,Need details,6-12m,3,3,3,4,3,0
+F2001,Salaried professional,Yes-other sector,Nagpur,Mixed Residential-Commercial,60,Not sure,400,Need details,6-12m,4,5,5,4,4,1
+F2002,Other,No-first time,Mumbai,Student/PG-dense,15,Have space ready,400,Need details,6-12m,4,3,4,3,4,1
+F2003,Investor,Yes-laundry/service,Hyderabad,Working Professional Hub,42,Not sure,400,Hybrid,3-6m,4,4,4,4,4,0
+F2004,Salaried professional,Yes-other sector,Bangalore,Working Professional Hub,15,Have space ready,250,Hybrid,<3m,3,4,4,4,5,0
+F2005,Retail/real-estate owner,Yes-other sector,Hyderabad,Residential Township,15,Need help,400,Hybrid,3-6m,5,4,4,2,5,1
+F2006,Existing business owner,No-first time,Mumbai,Working Professional Hub,27,Have space ready,650,Fixed fee,6-12m,3,4,3,3,4,1
+F2007,Other,No-first time,Pune,Residential Township,27,Not sure,650,Hybrid,3-6m,4,4,3,4,5,1
+F2008,Existing business owner,Yes-laundry/service,Mumbai,Mixed Residential-Commercial,8,Have space ready,650,Hybrid,6-12m,5,5,4,4,5,1
+F2009,Salaried professional,No-first time,Ahmedabad,IT Park Hub,15,Need help,400,Need details,<3m,3,3,2,3,2,0
+F2010,Existing business owner,No-first time,Mumbai,Residential Township,27,Have space ready,650,Hybrid,6-12m,5,5,4,4,5,1
+F2011,Investor,Yes-other sector,Pune,Working Professional Hub,15,Have space ready,650,Revenue share,3-6m,4,3,4,3,3,0
+F2012,Salaried professional,No-first time,Nagpur,IT Park Hub,27,Not sure,400,Hybrid,6-12m,4,4,4,3,5,1
+F2013,Retail/real-estate owner,No-first time,Ahmedabad,IT Park Hub,27,Have space ready,1000,Need details,3-6m,5,5,5,5,5,1
+F2014,Salaried professional,Yes-other sector,Pune,Residential Township,15,Have space ready,650,Fixed fee,3-6m,2,2,3,4,4,0
+F2015,Investor,Yes-other sector,Surat,Mixed Residential-Commercial,42,Have space ready,650,Revenue share,12m+,5,4,3,3,4,1
+F2016,Salaried professional,No-first time,Hyderabad,Working Professional Hub,15,Need help,400,Hybrid,3-6m,3,3,3,3,3,0
+F2017,Investor,No-first time,Pune,Residential Township,42,Need help,250,Fixed fee,6-12m,2,3,2,2,2,0
+F2018,Existing business owner,Yes-other sector,Pune,Residential Township,42,Have space ready,1000,Fixed fee,12m+,5,5,4,3,5,1
+F2019,Existing business owner,No-first time,Hyderabad,IT Park Hub,60,Have space ready,1000,Revenue share,6-12m,5,5,5,5,4,1
+F2020,Other,No-first time,Ahmedabad,Residential Township,27,Need help,250,Need details,12m+,4,3,3,4,2,0
+F2021,Other,No-first time,Pune,Residential Township,27,Have space ready,400,Fixed fee,<3m,2,3,4,4,3,1
+F2022,Retail/real-estate owner,Yes-other sector,Pune,Working Professional Hub,15,Not sure,650,Revenue share,3-6m,5,5,5,5,5,1
+F2023,Salaried professional,No-first time,Mumbai,Student/PG-dense,27,Not sure,650,Hybrid,3-6m,3,4,3,3,5,1
+F2024,Existing business owner,Yes-other sector,Bangalore,Residential Township,27,Need help,1000,Need details,<3m,4,4,4,4,5,1
+F2025,Existing business owner,No-first time,Pune,Working Professional Hub,15,Have space ready,250,Need details,3-6m,4,3,3,4,3,0
+F2026,Existing business owner,No-first time,Pune,Working Professional Hub,42,Need help,400,Revenue share,3-6m,5,4,5,4,5,1
+F2027,Existing business owner,No-first time,Hyderabad,Residential Township,8,Not sure,250,Need details,6-12m,4,3,3,3,4,1
+F2028,Salaried professional,Yes-other sector,Ahmedabad,IT Park Hub,42,Need help,400,Fixed fee,12m+,2,3,3,3,2,0
+F2029,Retail/real-estate owner,No-first time,Bangalore,Residential Township,42,Not sure,250,Hybrid,<3m,4,4,4,3,3,0
+F2030,Retail/real-estate owner,No-first time,Mumbai,Residential Township,27,Need help,1000,Hybrid,3-6m,4,5,4,4,4,1
+F2031,Salaried professional,No-first time,Mumbai,IT Park Hub,27,Need help,650,Revenue share,3-6m,5,4,4,5,5,1
+F2032,Existing business owner,Yes-other sector,Mumbai,Residential Township,15,Have space ready,1000,Hybrid,3-6m,5,5,5,4,4,1
+F2033,Existing business owner,No-first time,Surat,Residential Township,60,Need help,250,Fixed fee,6-12m,5,4,5,3,5,0
+F2034,Retail/real-estate owner,Yes-other sector,Ahmedabad,Working Professional Hub,8,Have space ready,400,Need details,3-6m,5,4,4,4,4,1
+F2035,Salaried professional,No-first time,Pune,Mixed Residential-Commercial,27,Not sure,400,Revenue share,<3m,4,3,3,3,4,0
+F2036,Retail/real-estate owner,No-first time,Mumbai,Student/PG-dense,27,Not sure,400,Hybrid,6-12m,5,5,5,5,5,1
+F2037,Existing business owner,Yes-other sector,Bangalore,Student/PG-dense,60,Not sure,1000,Fixed fee,12m+,5,5,4,4,5,1
+F2038,Existing business owner,Yes-laundry/service,Bangalore,Mixed Residential-Commercial,42,Need help,400,Fixed fee,6-12m,5,5,5,5,5,1
+F2039,Retail/real-estate owner,Yes-other sector,Mumbai,Mixed Residential-Commercial,27,Have space ready,400,Need details,6-12m,4,4,4,3,5,1
+F2040,Retail/real-estate owner,No-first time,Ahmedabad,Student/PG-dense,8,Have space ready,250,Hybrid,3-6m,4,4,2,3,4,1
+F2041,Salaried professional,Yes-laundry/service,Ahmedabad,IT Park Hub,15,Need help,250,Need details,3-6m,5,5,4,4,4,0
+F2042,Existing business owner,No-first time,Bangalore,Working Professional Hub,8,Not sure,1000,Revenue share,3-6m,2,4,3,3,4,1
+F2043,Other,No-first time,Ahmedabad,Residential Township,42,Need help,400,Fixed fee,3-6m,4,3,5,4,4,1
+F2044,Salaried professional,Yes-other sector,Hyderabad,Student/PG-dense,42,Have space ready,650,Hybrid,12m+,5,5,4,4,5,1
+F2045,Investor,No-first time,Ahmedabad,Mixed Residential-Commercial,42,Not sure,650,Revenue share,6-12m,3,4,3,3,5,1
+F2046,Retail/real-estate owner,No-first time,Surat,IT Park Hub,27,Not sure,250,Fixed fee,3-6m,5,5,5,5,5,1
+F2047,Retail/real-estate owner,No-first time,Pune,Student/PG-dense,27,Need help,250,Hybrid,3-6m,5,3,3,5,4,1
+F2048,Existing business owner,Yes-other sector,Pune,IT Park Hub,8,Need help,1000,Revenue share,3-6m,3,4,3,3,3,0
+F2049,Existing business owner,Yes-laundry/service,Nagpur,Working Professional Hub,15,Not sure,650,Fixed fee,6-12m,5,5,5,4,5,1
+F2050,Investor,No-first time,Ahmedabad,Working Professional Hub,8,Need help,400,Revenue share,3-6m,5,5,4,4,4,1
+F2051,Existing business owner,No-first time,Nagpur,IT Park Hub,27,Not sure,250,Hybrid,3-6m,4,4,3,3,4,1
+F2052,Salaried professional,Yes-other sector,Pune,Working Professional Hub,15,Have space ready,250,Hybrid,6-12m,5,5,5,5,5,1
+F2053,Retail/real-estate owner,Yes-other sector,Bangalore,Student/PG-dense,27,Need help,400,Revenue share,3-6m,5,5,5,5,5,1
+F2054,Salaried professional,Yes-other sector,Pune,Mixed Residential-Commercial,27,Need help,250,Hybrid,<3m,3,4,4,4,4,1
+F2055,Investor,No-first time,Bangalore,Mixed Residential-Commercial,27,Not sure,400,Fixed fee,<3m,3,3,4,3,3,0
+F2056,Retail/real-estate owner,Yes-other sector,Pune,Residential Township,8,Not sure,400,Need details,3-6m,3,4,4,4,3,1
+F2057,Investor,No-first time,Pune,Mixed Residential-Commercial,15,Not sure,250,Need details,<3m,2,1,2,3,2,0
+F2058,Investor,Yes-laundry/service,Pune,Working Professional Hub,15,Need help,250,Hybrid,3-6m,3,3,3,4,3,0
+F2059,Salaried professional,No-first time,Bangalore,Working Professional Hub,27,Not sure,1000,Fixed fee,6-12m,3,3,3,4,4,0
+F2060,Existing business owner,No-first time,Mumbai,Student/PG-dense,8,Need help,650,Hybrid,6-12m,5,5,4,4,4,1
+F2061,Retail/real-estate owner,No-first time,Pune,Working Professional Hub,42,Need help,1400,Hybrid,6-12m,5,3,4,3,3,0
+F2062,Existing business owner,Yes-other sector,Mumbai,Residential Township,42,Have space ready,400,Need details,12m+,5,5,4,4,4,1
+F2063,Other,No-first time,Pune,Working Professional Hub,15,Not sure,650,Need details,3-6m,3,2,3,3,3,0
+F2064,Retail/real-estate owner,Yes-other sector,Surat,Student/PG-dense,27,Not sure,400,Need details,12m+,5,5,5,5,5,1
+F2065,Salaried professional,Yes-laundry/service,Mumbai,Working Professional Hub,27,Have space ready,650,Fixed fee,3-6m,5,5,5,5,5,1
+F2066,Investor,Yes-other sector,Mumbai,Student/PG-dense,42,Have space ready,250,Need details,3-6m,5,5,4,5,5,1
+F2067,Salaried professional,No-first time,Ahmedabad,Student/PG-dense,15,Not sure,250,Hybrid,3-6m,4,4,3,5,5,1
+F2068,Salaried professional,No-first time,Hyderabad,Student/PG-dense,15,Need help,1400,Hybrid,<3m,3,4,2,2,2,0
+F2069,Retail/real-estate owner,No-first time,Hyderabad,Mixed Residential-Commercial,15,Not sure,650,Revenue share,12m+,3,3,4,3,4,0
+F2070,Investor,No-first time,Bangalore,Working Professional Hub,15,Have space ready,1400,Revenue share,<3m,5,5,4,4,5,1
+F2071,Existing business owner,Yes-other sector,Surat,Residential Township,42,Have space ready,400,Revenue share,3-6m,5,5,5,4,5,1
+F2072,Existing business owner,No-first time,Pune,Working Professional Hub,42,Need help,400,Fixed fee,3-6m,3,3,3,3,2,0
+F2073,Existing business owner,No-first time,Surat,Working Professional Hub,60,Have space ready,400,Revenue share,<3m,5,4,4,3,4,1
+F2074,Existing business owner,No-first time,Ahmedabad,Student/PG-dense,8,Have space ready,650,Need details,3-6m,5,5,5,4,5,1
+F2075,Existing business owner,No-first time,Bangalore,Residential Township,8,Have space ready,650,Fixed fee,<3m,4,3,5,4,4,1
+F2076,Salaried professional,No-first time,Hyderabad,Working Professional Hub,27,Have space ready,1400,Fixed fee,3-6m,2,2,3,3,3,0
+F2077,Retail/real-estate owner,No-first time,Hyderabad,Student/PG-dense,15,Have space ready,250,Fixed fee,12m+,5,5,4,3,5,1
+F2078,Investor,No-first time,Pune,Student/PG-dense,15,Not sure,650,Revenue share,3-6m,3,3,4,3,2,0
+F2079,Existing business owner,Yes-other sector,Pune,Student/PG-dense,27,Have space ready,400,Need details,<3m,5,4,5,4,5,1
+F2080,Salaried professional,No-first time,Surat,Student/PG-dense,8,Need help,400,Fixed fee,6-12m,3,3,3,4,3,0
+F2081,Investor,No-first time,Bangalore,Student/PG-dense,27,Not sure,650,Fixed fee,12m+,4,3,4,3,4,1
+F2082,Retail/real-estate owner,Yes-other sector,Mumbai,Student/PG-dense,15,Need help,650,Need details,3-6m,4,3,4,3,4,1
+F2083,Investor,Yes-other sector,Ahmedabad,Working Professional Hub,27,Need help,250,Need details,3-6m,3,3,4,2,4,0
+F2084,Salaried professional,No-first time,Bangalore,Mixed Residential-Commercial,42,Need help,400,Fixed fee,12m+,3,3,3,2,3,0
+F2085,Salaried professional,No-first time,Pune,IT Park Hub,15,Not sure,400,Hybrid,3-6m,1,1,3,3,3,0
+F2086,Existing business owner,No-first time,Hyderabad,Residential Township,60,Not sure,400,Hybrid,6-12m,4,4,4,5,5,1
+F2087,Retail/real-estate owner,Yes-other sector,Hyderabad,Working Professional Hub,27,Need help,400,Hybrid,3-6m,2,3,3,2,2,0
+F2088,Existing business owner,No-first time,Pune,Student/PG-dense,60,Not sure,250,Revenue share,12m+,4,4,5,4,3,1
+F2089,Existing business owner,No-first time,Surat,Mixed Residential-Commercial,15,Need help,250,Need details,12m+,5,4,3,3,5,0
+F2090,Salaried professional,Yes-laundry/service,Pune,Residential Township,27,Have space ready,1400,Fixed fee,6-12m,3,4,4,4,4,1
+F2091,Existing business owner,Yes-other sector,Mumbai,Residential Township,15,Not sure,1400,Revenue share,3-6m,5,5,3,5,4,1
+F2092,Retail/real-estate owner,No-first time,Pune,Mixed Residential-Commercial,42,Need help,650,Revenue share,3-6m,5,5,4,3,5,1
+F2093,Existing business owner,No-first time,Bangalore,Mixed Residential-Commercial,27,Not sure,1400,Revenue share,3-6m,1,2,1,2,1,0
+F2094,Retail/real-estate owner,Yes-other sector,Mumbai,Working Professional Hub,27,Have space ready,650,Need details,12m+,5,5,5,5,5,1
+F2095,Existing business owner,No-first time,Mumbai,Working Professional Hub,60,Need help,250,Hybrid,12m+,1,2,2,1,1,0
+F2096,Existing business owner,Yes-laundry/service,Ahmedabad,Student/PG-dense,15,Not sure,250,Fixed fee,3-6m,5,4,4,5,4,1
+F2097,Existing business owner,No-first time,Pune,Working Professional Hub,15,Have space ready,1000,Revenue share,6-12m,4,4,4,4,4,1
+F2098,Existing business owner,Yes-other sector,Ahmedabad,Mixed Residential-Commercial,27,Not sure,650,Revenue share,3-6m,2,2,3,3,3,0
+F2099,Salaried professional,Yes-laundry/service,Bangalore,Residential Township,27,Not sure,1000,Need details,3-6m,5,5,5,5,5,1
+F2100,Retail/real-estate owner,No-first time,Surat,Residential Township,15,Not sure,1000,Hybrid,6-12m,4,5,4,2,4,1
+F2101,Investor,Yes-other sector,Bangalore,Residential Township,27,Need help,400,Hybrid,3-6m,2,3,4,4,3,0
+F2102,Existing business owner,No-first time,Pune,Working Professional Hub,60,Need help,250,Hybrid,3-6m,5,5,5,4,5,1
+F2103,Salaried professional,No-first time,Pune,Residential Township,42,Not sure,400,Hybrid,<3m,1,2,2,3,2,0
+F2104,Other,No-first time,Nagpur,Residential Township,8,Not sure,250,Hybrid,6-12m,1,2,3,3,2,0
+F2105,Salaried professional,No-first time,Ahmedabad,Student/PG-dense,15,Need help,400,Revenue share,12m+,2,2,1,2,1,0
+F2106,Salaried professional,No-first time,Mumbai,Residential Township,60,Not sure,400,Need details,12m+,4,5,4,5,4,1
+F2107,Existing business owner,Yes-other sector,Bangalore,Mixed Residential-Commercial,27,Need help,250,Hybrid,6-12m,3,4,5,4,5,1
+F2108,Retail/real-estate owner,Yes-laundry/service,Bangalore,Working Professional Hub,60,Not sure,400,Hybrid,6-12m,5,5,5,4,5,1
+F2109,Existing business owner,No-first time,Surat,Student/PG-dense,15,Have space ready,400,Need details,3-6m,5,5,4,4,5,1
+F2110,Existing business owner,Yes-laundry/service,Surat,Residential Township,42,Have space ready,400,Hybrid,12m+,5,5,4,5,5,1
+F2111,Existing business owner,No-first time,Surat,Residential Township,27,Need help,650,Need details,6-12m,4,3,4,4,4,1
+F2112,Salaried professional,No-first time,Nagpur,IT Park Hub,15,Need help,400,Need details,6-12m,4,3,4,2,3,1
+F2113,Existing business owner,Yes-other sector,Nagpur,IT Park Hub,27,Not sure,650,Fixed fee,6-12m,4,5,5,4,5,1
+F2114,Retail/real-estate owner,No-first time,Pune,Student/PG-dense,27,Have space ready,1400,Revenue share,12m+,5,5,4,5,4,1
+F2115,Retail/real-estate owner,Yes-other sector,Ahmedabad,Student/PG-dense,27,Not sure,250,Hybrid,<3m,4,5,5,4,5,1
+F2116,Salaried professional,No-first time,Hyderabad,Student/PG-dense,42,Have space ready,250,Revenue share,3-6m,5,5,4,5,5,1
+F2117,Salaried professional,No-first time,Surat,Working Professional Hub,42,Need help,1000,Need details,6-12m,4,4,3,4,3,0
+F2118,Retail/real-estate owner,No-first time,Bangalore,Mixed Residential-Commercial,42,Have space ready,650,Hybrid,12m+,3,3,2,4,3,0
+F2119,Investor,Yes-other sector,Pune,Student/PG-dense,42,Need help,1000,Hybrid,6-12m,2,2,3,2,5,0
+F2120,Existing business owner,No-first time,Bangalore,Mixed Residential-Commercial,27,Have space ready,400,Need details,3-6m,5,5,5,4,5,1
+F2121,Existing business owner,Yes-other sector,Hyderabad,Student/PG-dense,15,Have space ready,1000,Revenue share,3-6m,4,5,5,4,4,1
+F2122,Salaried professional,No-first time,Pune,Residential Township,42,Need help,1400,Hybrid,6-12m,4,3,3,3,4,1
+F2123,Existing business owner,No-first time,Mumbai,Working Professional Hub,27,Have space ready,650,Hybrid,6-12m,4,5,4,3,4,1
+F2124,Salaried professional,No-first time,Bangalore,IT Park Hub,15,Have space ready,250,Revenue share,6-12m,3,4,3,3,3,1
+F2125,Retail/real-estate owner,No-first time,Mumbai,Student/PG-dense,27,Not sure,1000,Fixed fee,3-6m,3,4,3,4,3,0
+F2126,Existing business owner,No-first time,Mumbai,IT Park Hub,8,Have space ready,1000,Need details,12m+,5,3,3,4,4,1
+F2127,Investor,Yes-laundry/service,Pune,Student/PG-dense,27,Need help,1000,Hybrid,6-12m,4,3,4,4,4,0
+F2128,Retail/real-estate owner,Yes-other sector,Surat,Working Professional Hub,15,Have space ready,250,Need details,6-12m,5,5,5,5,5,1
+F2129,Investor,No-first time,Hyderabad,Residential Township,15,Have space ready,1000,Hybrid,3-6m,4,4,3,3,4,1
+F2130,Existing business owner,Yes-laundry/service,Pune,Residential Township,60,Need help,250,Fixed fee,3-6m,5,5,5,5,5,1
+F2131,Salaried professional,No-first time,Ahmedabad,IT Park Hub,42,Have space ready,400,Revenue share,12m+,5,5,4,5,5,1
+F2132,Other,No-first time,Hyderabad,Student/PG-dense,42,Not sure,650,Revenue share,<3m,1,2,1,2,2,0
+F2133,Retail/real-estate owner,No-first time,Pune,Working Professional Hub,27,Not sure,400,Need details,6-12m,5,4,5,5,5,1
+F2134,Investor,No-first time,Mumbai,IT Park Hub,42,Have space ready,650,Fixed fee,3-6m,4,3,3,4,4,0
+F2135,Salaried professional,No-first time,Bangalore,Residential Township,42,Not sure,650,Need details,6-12m,4,4,4,3,5,1
+F2136,Existing business owner,No-first time,Mumbai,Residential Township,27,Have space ready,250,Need details,3-6m,5,5,4,4,3,1
+F2137,Retail/real-estate owner,No-first time,Ahmedabad,Student/PG-dense,60,Have space ready,650,Need details,3-6m,5,5,5,5,5,1
+F2138,Salaried professional,No-first time,Mumbai,Working Professional Hub,15,Have space ready,1400,Revenue share,12m+,4,4,4,4,5,1
+F2139,Existing business owner,No-first time,Pune,Student/PG-dense,60,Need help,400,Need details,6-12m,5,4,4,3,3,1
+F2140,Existing business owner,No-first time,Surat,Student/PG-dense,15,Need help,650,Revenue share,<3m,3,4,4,3,4,1
+F2141,Salaried professional,No-first time,Pune,Mixed Residential-Commercial,27,Have space ready,400,Fixed fee,3-6m,4,4,4,4,5,1
+F2142,Salaried professional,No-first time,Hyderabad,Residential Township,8,Not sure,650,Revenue share,12m+,4,3,4,3,3,0
+F2143,Existing business owner,Yes-other sector,Pune,IT Park Hub,27,Need help,400,Need details,3-6m,5,5,4,5,5,1
+F2144,Salaried professional,Yes-other sector,Mumbai,Student/PG-dense,27,Need help,400,Fixed fee,6-12m,3,2,3,4,4,0
+F2145,Retail/real-estate owner,No-first time,Mumbai,Student/PG-dense,60,Need help,250,Hybrid,3-6m,4,4,4,4,3,1
+F2146,Salaried professional,No-first time,Pune,Student/PG-dense,60,Not sure,1400,Fixed fee,12m+,5,3,4,4,4,1
+F2147,Salaried professional,Yes-other sector,Mumbai,Residential Township,60,Have space ready,650,Revenue share,6-12m,5,4,4,4,5,1
+F2148,Investor,No-first time,Pune,Residential Township,15,Have space ready,650,Fixed fee,6-12m,3,4,3,3,4,1
+F2149,Existing business owner,No-first time,Bangalore,IT Park Hub,60,Need help,400,Need details,<3m,4,4,4,4,3,0
+F2150,Existing business owner,No-first time,Hyderabad,Student/PG-dense,27,Need help,650,Hybrid,12m+,5,4,4,4,5,1
+F2151,Retail/real-estate owner,No-first time,Pune,Working Professional Hub,42,Need help,400,Need details,3-6m,4,4,3,4,4,0
+F2152,Investor,Yes-other sector,Nagpur,Residential Township,15,Have space ready,400,Hybrid,12m+,5,5,4,5,5,1
+F2153,Salaried professional,No-first time,Pune,Student/PG-dense,27,Need help,650,Need details,3-6m,5,5,5,5,5,1
+F2154,Existing business owner,No-first time,Pune,Working Professional Hub,60,Need help,400,Hybrid,6-12m,3,3,4,4,4,0
+F2155,Retail/real-estate owner,No-first time,Hyderabad,Residential Township,60,Need help,400,Hybrid,<3m,5,4,4,4,4,1
+F2156,Existing business owner,Yes-other sector,Mumbai,Residential Township,27,Have space ready,650,Hybrid,6-12m,4,5,4,5,3,1
+F2157,Retail/real-estate owner,Yes-laundry/service,Bangalore,Working Professional Hub,42,Need help,1000,Revenue share,3-6m,4,5,5,4,4,1
+F2158,Other,No-first time,Pune,IT Park Hub,15,Need help,400,Need details,3-6m,5,2,4,3,4,0
+F2159,Investor,Yes-other sector,Ahmedabad,Working Professional Hub,27,Need help,250,Hybrid,<3m,5,5,4,4,4,1
+F2160,Salaried professional,No-first time,Bangalore,Residential Township,27,Not sure,400,Hybrid,<3m,5,5,4,5,5,1
+F2161,Salaried professional,No-first time,Pune,Residential Township,8,Need help,1400,Hybrid,3-6m,3,3,3,3,3,0
+F2162,Other,No-first time,Mumbai,Working Professional Hub,8,Have space ready,1000,Fixed fee,3-6m,5,4,4,4,4,1
+F2163,Existing business owner,No-first time,Ahmedabad,Student/PG-dense,8,Need help,650,Hybrid,12m+,3,1,3,3,2,0
+F2164,Salaried professional,No-first time,Bangalore,Residential Township,27,Not sure,1400,Fixed fee,3-6m,5,4,5,4,3,1
+F2165,Retail/real-estate owner,No-first time,Pune,IT Park Hub,8,Not sure,400,Hybrid,6-12m,5,4,4,3,4,1
+F2166,Existing business owner,No-first time,Mumbai,Residential Township,27,Need help,1400,Hybrid,<3m,3,3,3,3,4,1
+F2167,Salaried professional,No-first time,Pune,Residential Township,15,Have space ready,400,Need details,6-12m,1,1,2,2,1,0
+F2168,Investor,No-first time,Bangalore,Residential Township,27,Need help,400,Fixed fee,3-6m,3,4,4,3,3,1
+F2169,Salaried professional,No-first time,Ahmedabad,Residential Township,27,Need help,650,Fixed fee,12m+,3,3,2,3,4,1
+F2170,Salaried professional,No-first time,Mumbai,Student/PG-dense,27,Not sure,400,Fixed fee,12m+,5,5,5,4,4,1
+F2171,Salaried professional,Yes-other sector,Mumbai,IT Park Hub,27,Need help,650,Revenue share,3-6m,5,5,5,5,5,1
+F2172,Retail/real-estate owner,No-first time,Nagpur,Student/PG-dense,27,Need help,400,Need details,6-12m,5,3,3,4,3,1
+F2173,Salaried professional,No-first time,Bangalore,Residential Township,15,Need help,650,Need details,3-6m,4,2,2,3,3,0
+F2174,Existing business owner,No-first time,Bangalore,Residential Township,42,Need help,400,Hybrid,6-12m,3,3,3,4,3,0
+F2175,Retail/real-estate owner,No-first time,Pune,Working Professional Hub,15,Not sure,250,Need details,<3m,5,4,4,4,4,0
+F2176,Investor,No-first time,Bangalore,Student/PG-dense,15,Need help,1000,Revenue share,3-6m,5,3,4,5,4,1
+F2177,Salaried professional,No-first time,Bangalore,Working Professional Hub,42,Not sure,1000,Fixed fee,3-6m,3,3,3,3,3,0
+F2178,Investor,No-first time,Mumbai,Working Professional Hub,15,Need help,1400,Fixed fee,6-12m,2,4,3,3,4,0
+F2179,Salaried professional,No-first time,Surat,Working Professional Hub,42,Have space ready,650,Need details,3-6m,5,4,4,4,4,1
+F2180,Retail/real-estate owner,No-first time,Nagpur,Residential Township,15,Need help,650,Hybrid,6-12m,3,4,3,2,4,0
+F2181,Existing business owner,Yes-laundry/service,Hyderabad,Mixed Residential-Commercial,27,Have space ready,650,Hybrid,6-12m,5,5,4,3,5,1
+F2182,Salaried professional,No-first time,Bangalore,IT Park Hub,8,Have space ready,250,Revenue share,<3m,4,4,3,3,5,1
+F2183,Retail/real-estate owner,No-first time,Mumbai,Student/PG-dense,15,Need help,400,Revenue share,6-12m,2,1,4,2,2,0
+F2184,Salaried professional,No-first time,Pune,Student/PG-dense,15,Need help,400,Need details,12m+,4,2,3,3,3,1
+F2185,Salaried professional,Yes-other sector,Mumbai,IT Park Hub,42,Need help,1000,Fixed fee,12m+,3,4,4,4,5,0
+F2186,Existing business owner,Yes-laundry/service,Ahmedabad,Residential Township,60,Have space ready,400,Hybrid,6-12m,5,5,4,5,5,1
+F2187,Retail/real-estate owner,No-first time,Mumbai,Student/PG-dense,27,Need help,1400,Revenue share,6-12m,4,4,3,4,4,1
+F2188,Salaried professional,Yes-other sector,Nagpur,Residential Township,42,Need help,650,Fixed fee,6-12m,4,5,4,5,4,0
+F2189,Salaried professional,No-first time,Pune,Working Professional Hub,27,Not sure,650,Hybrid,3-6m,4,4,3,3,4,0
+F2190,Salaried professional,No-first time,Bangalore,Student/PG-dense,60,Need help,250,Revenue share,3-6m,3,3,4,3,3,1
+F2191,Existing business owner,No-first time,Hyderabad,Student/PG-dense,42,Need help,400,Hybrid,<3m,3,3,4,3,4,1
+F2192,Existing business owner,Yes-other sector,Bangalore,Student/PG-dense,8,Have space ready,1400,Hybrid,3-6m,5,5,4,5,5,1
+F2193,Salaried professional,No-first time,Nagpur,Student/PG-dense,27,Not sure,400,Hybrid,3-6m,4,3,3,2,4,0
+F2194,Salaried professional,No-first time,Surat,Residential Township,27,Need help,400,Hybrid,12m+,3,3,4,2,3,0
+F2195,Existing business owner,No-first time,Pune,Working Professional Hub,8,Not sure,400,Hybrid,3-6m,4,4,5,4,4,1
+F2196,Investor,No-first time,Pune,Residential Township,15,Have space ready,250,Revenue share,6-12m,3,4,2,4,4,0
+F2197,Retail/real-estate owner,No-first time,Pune,Student/PG-dense,60,Need help,400,Hybrid,6-12m,4,5,4,4,4,0
+F2198,Investor,Yes-other sector,Hyderabad,Mixed Residential-Commercial,60,Need help,650,Hybrid,3-6m,5,4,4,3,4,0
+F2199,Salaried professional,No-first time,Mumbai,Working Professional Hub,42,Have space ready,650,Fixed fee,<3m,5,5,4,4,5,1
+F2200,Other,No-first time,Hyderabad,Residential Township,60,Need help,650,Need details,6-12m,5,5,4,5,4,1
+F2201,Existing business owner,No-first time,Mumbai,IT Park Hub,42,Not sure,250,Hybrid,6-12m,5,5,5,4,4,1
+F2202,Other,No-first time,Bangalore,Mixed Residential-Commercial,8,Need help,1000,Need details,12m+,1,2,2,1,1,0
+F2203,Salaried professional,No-first time,Ahmedabad,IT Park Hub,15,Not sure,1000,Need details,3-6m,5,4,4,5,4,1
+F2204,Existing business owner,Yes-other sector,Bangalore,Residential Township,8,Have space ready,250,Revenue share,12m+,5,5,5,5,5,1
+F2205,Existing business owner,No-first time,Bangalore,Mixed Residential-Commercial,8,Need help,400,Hybrid,3-6m,4,3,4,4,3,1
+F2206,Existing business owner,No-first time,Pune,Student/PG-dense,15,Need help,250,Revenue share,6-12m,4,4,4,3,3,1
+F2207,Investor,No-first time,Mumbai,Residential Township,27,Need help,1000,Revenue share,6-12m,3,3,2,2,2,0
+F2208,Retail/real-estate owner,No-first time,Bangalore,Mixed Residential-Commercial,42,Not sure,650,Need details,<3m,2,3,3,3,2,0
+F2209,Other,No-first time,Mumbai,Working Professional Hub,42,Have space ready,1000,Hybrid,<3m,3,5,4,4,5,0
+F2210,Retail/real-estate owner,No-first time,Nagpur,Working Professional Hub,27,Not sure,400,Fixed fee,<3m,4,5,2,4,4,1
+F2211,Existing business owner,No-first time,Nagpur,IT Park Hub,60,Need help,650,Hybrid,3-6m,5,4,4,5,4,1
+F2212,Salaried professional,Yes-laundry/service,Ahmedabad,Student/PG-dense,27,Have space ready,400,Need details,6-12m,4,4,4,3,5,1
+F2213,Other,No-first time,Mumbai,Student/PG-dense,42,Not sure,400,Hybrid,3-6m,3,3,3,4,3,0
+F2214,Existing business owner,No-first time,Hyderabad,Residential Township,27,Need help,650,Hybrid,6-12m,3,3,3,3,4,1
+F2215,Retail/real-estate owner,Yes-other sector,Mumbai,Mixed Residential-Commercial,15,Not sure,250,Hybrid,3-6m,4,4,3,4,4,0
+F2216,Existing business owner,Yes-laundry/service,Pune,Residential Township,60,Need help,650,Revenue share,6-12m,5,4,5,4,5,1
+F2217,Existing business owner,No-first time,Mumbai,Student/PG-dense,15,Not sure,650,Revenue share,6-12m,5,5,4,3,5,1
+F2218,Investor,Yes-other sector,Pune,Student/PG-dense,27,Need help,1000,Hybrid,6-12m,5,5,5,5,5,1
+F2219,Salaried professional,No-first time,Mumbai,Residential Township,15,Have space ready,400,Revenue share,6-12m,4,5,4,3,4,1
